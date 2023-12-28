@@ -1,8 +1,8 @@
-import vision
+import veesion
 import cv2
 import numpy as np
 import time
-from vision.FaceDetectionModule import FaceDetector
+from veesion.FaceDetectionModule import FaceDetector
 
 
 class PID:

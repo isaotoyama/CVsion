@@ -2,7 +2,7 @@
 import cv2
 import mediapipe as mp
 
-import vision
+import veesion
 
 
 class FaceDetector:

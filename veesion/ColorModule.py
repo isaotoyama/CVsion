@@ -8,7 +8,7 @@ Can run as stand alone to find relevant hsv values
 import cv2
 import numpy as np
 
-import vision
+import veesion
 
 
 class ColorFinder:
