@@ -1,0 +1,15 @@
+setup.cfg
+setup.py
+vision\ClassificationModule.py
+vision\ColorModule.py
+vision\FPS.py
+vision\FaceDetectionModule.py
+vision\FaceMeshModule.py
+vision\HandTrackingModule.py
+vision\PIDModule.py
+vision\PlotModule.py
+vision\PoseModule.py
+vision\SelfiSegmentationModule.py
+vision\SerialModule.py
+vision\Utils.py
+vision\__init__.py
